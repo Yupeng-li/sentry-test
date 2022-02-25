@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "sentry-test",
+    "slug": "sentry-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "sentry-test"
+}
